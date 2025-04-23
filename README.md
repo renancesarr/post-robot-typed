@@ -1,3 +1,16 @@
+> **TypeScript Declarations Provision**  
+>  
+> This repository is a fork of [post-robot](https://github.com/krakenjs/post-robot), created exclusively to supply comprehensive TypeScript type definitions.  
+>  
+> You can find the declaration file here:  
+>  
+> ```  
+> types/post-robot.d.ts  
+> ```  
+>  
+> TypeScript users may reference this file to enable strict type-checking and IDE autocompletion when working with the `@krakenjs/post-robot` API.
+
+
 # post-robot [:]-\\-<
 
 [![build status][build-badge]][build]
